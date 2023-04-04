@@ -29,4 +29,4 @@ https://github.com/xieshang/AutoSpy，自行安装
 #### Magic配置文件
 
 # 线报群
-https://t.me/guluguluxiaohuoche
+
